@@ -1,5 +1,3 @@
-package com.company.core.tryout;
-
 import java.util.BitSet;
 
 public class Eratosthenes {
